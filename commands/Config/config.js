@@ -50,3 +50,9 @@ module.exports = new Command({
       interaction.followUp({embeds : [embed]})
   },
 });
+
+/**
+Coded by: Real_IceyDev
+License: 
+Whetū, best music bot of 2022.
+*/
