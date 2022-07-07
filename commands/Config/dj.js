@@ -139,3 +139,9 @@ module.exports = new Command({
     }
   },
 });
+
+/**
+Coded by: Real_IceyDev
+License: 
+Whetū, best music bot of 2022.
+*/
